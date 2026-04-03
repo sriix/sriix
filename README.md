@@ -69,6 +69,6 @@ interactive digital menu — clean and clickable
 
 `always building something ✦`
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-a78bfa?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sri-mikhila-eduballi)
+[![LinkedIn](https://img.shields.io/badge/linkedin-a78bfa?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduballisrimikhilaa/)
 &nbsp;
 [![Email](https://img.shields.io/badge/email-a78bfa?style=flat-square&logo=gmail&logoColor=white)](mailto:mikhilaa1436@gmail.com)
