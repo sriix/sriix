@@ -39,7 +39,7 @@ helps you make smarter food choices — built because it felt useful
 `html` `css` `js`
 
 **🎨 [Progress Pallette](https://github.com/sriix/PROGRESS_PALLETTE)**
-track your goals visually — because spreadsheets are boring
+track your knowledge visually — because textbooks are boring
 `js` `css`
 
 **🎬 [Netflix Clone](https://github.com/sriix/NETFLIX_CLONE)**
