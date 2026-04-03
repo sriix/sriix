@@ -63,7 +63,7 @@ interactive digital menu — clean and clickable
 
 ---
 
-![Stats](https://github-readme-stats.vercel.app/api?username=sriix&show_icons=true&theme=transparent&hide_border=true&title_color=a78bfa&icon_color=a78bfa&text_color=c4c0d8&bg_color=09090d)
+![Stats](https://github-readme-stats.vercel.app/api?username=sriix&show_icons=true&theme=tokyonight&hide_border=true)username=sriix&show_icons=true&theme=transparent&hide_border=true&title_color=a78bfa&icon_color=a78bfa&text_color=c4c0d8&bg_color=09090d)
 
 ---
 
