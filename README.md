@@ -63,9 +63,12 @@ interactive digital menu — clean and clickable
 
 ---
 
+<div align="center">
 ![Sri's GitHub stats](https://github-readme-stats.vercel.app/api?username=sriix&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sriix&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sriix&theme=radical)
+</div>
+
 
 
 
