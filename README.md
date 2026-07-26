@@ -1,6 +1,6 @@
 ### hi, i'm sri mikhila · @srii 👋
 
-**cs student · btech cse 3rd year · always building something**
+**cs student · btech cse 4th year · always building something**
 
 ---
 
